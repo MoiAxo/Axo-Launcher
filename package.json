@@ -1,8 +1,8 @@
 {
-    "name": "Selvania-Launcher",
-    "preductname": "Selvania Launcher",
-    "version": "2.1.4",
-    "description": "Launcher Mincraft pour le serveur Selvania",
+    "name": "Axo-Launcher",
+    "preductname": "Axo Launcher",
+    "version": "1.0.1",
+    "description": "Launcher Mincraft pour le serveur les Axolotl",
     "main": "src/app.js",
     "author": {
         "name": "luuxis, Inc.",
@@ -39,6 +39,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/luuxis/Selvania-Launcher.git"
+        "url": "git+https://github.com/MoiAxo/Axo-Launcher.git"
     }
 }
