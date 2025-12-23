@@ -5,7 +5,7 @@
     "description": "Launcher Mincraft pour le serveur les Axolotl",
     "main": "src/app.js",
     "author": {
-        "name": "luuxis, Inc.",
+        "name": "luuxis, Axo, Inc.",
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
